@@ -1,0 +1,12 @@
+{
+  "name": "telegram-referral-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Production Telegram referral bot: 3 required channels + 3-referral unlock, deployed on Netlify Functions.",
+  "dependencies": {
+    "firebase-admin": "^12.6.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
